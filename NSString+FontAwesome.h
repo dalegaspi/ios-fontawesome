@@ -330,6 +330,9 @@ typedef NS_ENUM(NSInteger, FAIcon) {
     FAIconEditSign,
     FAIconExternalLinkSign,
     FAIconShareSign,
+    FAIconThumbsUpAlt, // filled
+    FAIconThumbsDownAlt, // filled
+    FAIconCompass,
 };
 
 @interface NSString (FontAwesome)
